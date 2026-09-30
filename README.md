@@ -1,6 +1,6 @@
 # jpa01-8bitdoe
 
-Deployed at: [https://jpa01-8bitdoe.dokku-09.cs.ucsb.edu/](https://jpa01-8bitdoe.dokku-09.cs.ucsb.edu/)
+Deployed at: https://jpa01-8bitdoe.dokku-09.cs.ucsb.edu/
 
 
 # About this repo
